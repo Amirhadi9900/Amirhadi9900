@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amirhadi
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning python, HTML, CSS, and Java
+- 🌱 I’m currently learning Python, HTML, CSS, and Java. I know Linux coding already. 
 -
 -
 
